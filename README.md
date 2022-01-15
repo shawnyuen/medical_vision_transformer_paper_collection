@@ -6,4 +6,5 @@
 ### TransFuse Fusing Transformers and CNNs for Medical Image Segmentation arXiv 2021 [[paper]]()
 ### TransMed Transformers Advance Multi-Modal Medical Image Classification Diagnostics 2021 [[paper]]()
 ### U-Net Transformer Self and Cross Attention for Medical Image Segmentation MLMI 2021 [[paper]](https://arxiv.org/abs/2103.06104)
+### UCTransNet Rethinking the Skip Connections in U-Net from a Channel-wise Perspective with Transformer AAAI 2022 [[paper]](https://arxiv.org/abs/2109.04335) [[code]](https://github.com/McGregorWwww/UCTransNet)
 ### Vision Transformer-based Recognition of Diabetic Retinopathy Grade MP 2021 [[paper]](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15312)
