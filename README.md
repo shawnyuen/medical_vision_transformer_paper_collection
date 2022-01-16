@@ -58,7 +58,7 @@
 ### Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis arXiv 2021 [[paper]](https://arxiv.org/abs/2111.14791)
 ### Spine-Transformers Vertebra Detection and Localization in Arbitrary Field-of-View Spine CT with Transformers MICCAI 2021 [[paper]]()
 ### Task Transformer Network for Joint MRI Reconstruction and Super-Resolution MICCAI 2021 [[paper]](https://arxiv.org/abs/2106.06742) [[code]](https://github.com/chunmeifeng/T2Net)
-### Transformer Network for Significant Stenosis Detection in CCTA of Coronary Arteries MICCAI 2021 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_50) [[code]](https://github.com/XinghuaMa/TRNet)
+### Transformer Network for Significant Stenosis Detection in CCTA of Coronary Arteries MICCAI 2021 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_50) [[arXiv paper]](https://arxiv.org/abs/2107.03035) [[code]](https://github.com/XinghuaMa/TR-Net)
 ### TransFuse Fusing Transformers and CNNs for Medical Image Segmentation arXiv 2021 [[paper]]()
 ### TransMed Transformers Advance Multi-Modal Medical Image Classification Diagnostics 2021 [[paper]](https://www.mdpi.com/2075-4418/11/8/1384)
 ### TransMorph Transformer for Unsupervised Medical Image Registration arXiv 2021 [[paper]](https://arxiv.org/abs/2111.10480)
