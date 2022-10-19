@@ -1,5 +1,10 @@
 # medical vision transformer
 
+## 2022
+### NestedFormer Nested Modality-Aware Transformer for Brain Tumor Segmentation MICCAI 2022 [[paper]](https://arxiv.org/abs/2208.14876) [[code]](https://github.com/920232796/NestedFormer)
+### PHTrans Parallelly Aggregating Global and Local Representations for Medical Image Segmentation arXiv 2022 [[paper]]()
+### XMorpher Full Transformer for Deformable Medical Image Registration via Cross Attention MICCAI 2022 [[paper]](https://arxiv.org/abs/2206.07349) [[code]](https://github.com/Solemoon/XMorpher)
+
 ### 3D Transformer-GAN for High-Quality PET Reconstruction MICCAI 2021 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_27)
 ### 3DMeT 3D Medical Image Transformer for Knee Cartilage Defect Assessment MLMI 2021 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-87589-3_36)
 ### A Multi-branch Hybrid Transformer Network for Corneal Endothelial Cell Segmentation MICCAI 2021 [[paper]](https://arxiv.org/abs/2106.07557)
@@ -72,7 +77,3 @@
 ### UTNet A Hybrid Transformer Architecture for Medical Image Segmentation MICCAI 2021 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_6)
 ### Vision Transformer-based Recognition of Diabetic Retinopathy Grade MP 2021 [[paper]](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15312)
 ### ViT-V-Net Vision Transformer for Unsupervised Volumetric Medical Image Registration arXiv 2021 [[paper]](https://arxiv.org/abs/2104.06468) [[code]](https://github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration_Pytorch)
-
-## 2022
-### NestedFormer Nested Modality-Aware Transformer for Brain Tumor Segmentation MICCAI 2022 [[paper]](https://arxiv.org/abs/2208.14876) [[code]](https://github.com/920232796/NestedFormer)
-### XMorpher Full Transformer for Deformable Medical Image Registration via Cross Attention MICCAI 2022 [[paper]](https://arxiv.org/abs/2206.07349) [[code]](https://github.com/Solemoon/XMorpher)
