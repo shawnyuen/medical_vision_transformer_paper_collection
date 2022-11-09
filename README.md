@@ -4,11 +4,21 @@
 ### Transformers in Medical Image Analysis A Review arXiv 2022 [[paper]](https://arxiv.org/abs/2202.12165)
 
 ## 2022
+### 3D CVT-GAN A 3D Convolutional Vision Transformer-GAN for PET Reconstruction MICCAI 2022 [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_49)
+### 3D Shuffle-Mixer An Efficient Context-Aware Vision Learner of Transformer-MLP Paradigm for Dense Prediction in Medical Volume arXiv 2022 [[paper]](https://arxiv.org/abs/2204.06779)
+### C2FTrans Coarse-to-Fine Transformers for Medical Image Segmentation arXiv 2022 [[paper]]()
+### Edge-Oriented Point-Cloud Transformer for 3D Intracranial Aneurysm Segmentation MICCAI 2022 [[paper]]()
+### FocalUNETR A Focal Transformer for Boundary-aware Segmentation of CT Images arXiv 2022 [[paper]]()
 ### NestedFormer Nested Modality-Aware Transformer for Brain Tumor Segmentation MICCAI 2022 [[paper]](https://arxiv.org/abs/2208.14876) [[code]](https://github.com/920232796/NestedFormer)
 ### PHTrans Parallelly Aggregating Global and Local Representations for Medical Image Segmentation arXiv 2022 [[paper]]()
+### The Lighter The Better Rethinking Transformers in Medical Image Segmentation Through Adaptive Pruning arXiv 2022 [[paper]]()
+### Transformer Based Feature Fusion for Left Ventricle Segmentation in 4D Flow MRI MICCAI 2022 [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_36)
 ### XMorpher Full Transformer for Deformable Medical Image Registration via Cross Attention MICCAI 2022 [[paper]](https://arxiv.org/abs/2206.07349) [[code]](https://github.com/Solemoon/XMorpher)
 
+## 2021
+### 3D Medical Point Transformer Introducing Convolution to Attention Networks for Medical Point Cloud Analysis arXiv 2021 [[paper]]()
 ### 3D Transformer-GAN for High-Quality PET Reconstruction MICCAI 2021 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_27)
+
 ### 3DMeT 3D Medical Image Transformer for Knee Cartilage Defect Assessment MLMI 2021 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-87589-3_36)
 ### A Multi-branch Hybrid Transformer Network for Corneal Endothelial Cell Segmentation MICCAI 2021 [[paper]](https://arxiv.org/abs/2106.07557)
 ### A Volumetric Transformer for Accurate 3D Tumor Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2111.13300)
