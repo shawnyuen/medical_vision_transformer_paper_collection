@@ -87,6 +87,7 @@
 ### UCTransNet Rethinking the Skip Connections in U-Net from a Channel-wise Perspective with Transformer AAAI 2022 [[paper]](https://arxiv.org/abs/2109.04335) [[code]](https://github.com/McGregorWwww/UCTransNet)
 ### Ultrasound Video Transformers for Cardiac Ejection Fraction Estimation MICCAI 2021 [[paper]](https://arxiv.org/abs/2107.00977) [[code]](https://github.com/HReynaud/UVT)
 ### UNETR Transformers for 3D Medical Image Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2103.10504) [[WACV paper]](https://openaccess.thecvf.com/content/WACV2022/html/Hatamizadeh_UNETR_Transformers_for_3D_Medical_Image_Segmentation_WACV_2022_paper.html)
+### UNETR++ Delving into Efficient and Accurate 3D Medical Image Segmentation arXiv 2022 [[paper]](https://arxiv.org/abs/2212.04497) [[code]](https://github.com/Amshaker/unetr_plus_plus)
 ### UTNet A Hybrid Transformer Architecture for Medical Image Segmentation MICCAI 2021 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_6)
 ### Vision Transformer-based Recognition of Diabetic Retinopathy Grade MP 2021 [[paper]](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15312)
 ### ViT-V-Net Vision Transformer for Unsupervised Volumetric Medical Image Registration arXiv 2021 [[paper]](https://arxiv.org/abs/2104.06468) [[code]](https://github.com/junyuchen245/ViT-V-Net_for_3D_Image_Registration_Pytorch)
