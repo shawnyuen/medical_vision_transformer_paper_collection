@@ -1,6 +1,7 @@
 # medical_vision_transformer
 
 ## Survey
+### Transformers in Medical Imaging: A Survey arXiv 2022 [[paper]](https://arxiv.org/abs/2201.09873)
 ### Transformers in Medical Image Analysis A Review arXiv 2022 [[paper]](https://arxiv.org/abs/2202.12165)
 
 ## 2023
@@ -10,6 +11,7 @@
 ### 3D CVT-GAN A 3D Convolutional Vision Transformer-GAN for PET Reconstruction MICCAI 2022 [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_49)
 ### 3D Shuffle-Mixer An Efficient Context-Aware Vision Learner of Transformer-MLP Paradigm for Dense Prediction in Medical Volume arXiv 2022 [[paper]](https://arxiv.org/abs/2204.06779)
 ### Affine Medical Image Registration With Coarse-To-Fine Vision Transformer CVPR 2022 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Mok_Affine_Medical_Image_Registration_With_Coarse-To-Fine_Vision_Transformer_CVPR_2022_paper.html) [[arXiv paper]](https://arxiv.org/abs/2203.15216) [[code]](https://github.com/cwmok/C2FViT)
+### SwinBTS A Method for 3D Multimodal Brain Tumor Segmentation Using Swin Transformer BS 2022 [[paper]](https://www.mdpi.com/2076-3425/12/6/797)
 ### C2FTrans Coarse-to-Fine Transformers for Medical Image Segmentation arXiv 2022 [[paper]]()
 ### Deformer Towards Displacement Field Learning for Unsupervised Medical Image Registration MICCAI 2022
 ### Edge-Oriented Point-Cloud Transformer for 3D Intracranial Aneurysm Segmentation MICCAI 2022 [[paper]]()
