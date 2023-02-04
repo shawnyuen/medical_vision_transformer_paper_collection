@@ -3,6 +3,9 @@
 ## Survey
 ### Transformers in Medical Image Analysis A Review arXiv 2022 [[paper]](https://arxiv.org/abs/2202.12165)
 
+## 2023
+### 3D UX-Net A Large Kernel Volumetric ConvNet Modernizing Hierarchical Transformer for Medical Image Segmentation ICLR 2023
+
 ## 2022
 ### 3D CVT-GAN A 3D Convolutional Vision Transformer-GAN for PET Reconstruction MICCAI 2022 [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_49)
 ### 3D Shuffle-Mixer An Efficient Context-Aware Vision Learner of Transformer-MLP Paradigm for Dense Prediction in Medical Volume arXiv 2022 [[paper]](https://arxiv.org/abs/2204.06779)
