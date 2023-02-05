@@ -1,8 +1,9 @@
 # medical_vision_transformer
 
 ## Survey
-### Transformers in Medical Imaging: A Survey arXiv 2022 [[paper]](https://arxiv.org/abs/2201.09873)
+### Transformers in Medical Imaging A Survey arXiv 2022 [[paper]](https://arxiv.org/abs/2201.09873)
 ### Transformers in Medical Image Analysis A Review arXiv 2022 [[paper]](https://arxiv.org/abs/2202.12165)
+### Transforming Medical Imaging with Transformers A Comparative Review of Key Properties Current Progresses and Future Perspectives MedIA 2023 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1361841523000233)
 
 ## 2023
 ### 3D UX-Net A Large Kernel Volumetric ConvNet Modernizing Hierarchical Transformer for Medical Image Segmentation ICLR 2023
