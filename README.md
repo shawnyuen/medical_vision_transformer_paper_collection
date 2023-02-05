@@ -23,6 +23,7 @@
 ### SwinBTS A Method for 3D Multimodal Brain Tumor Segmentation Using Swin Transformer BS 2022 [[paper]](https://www.mdpi.com/2076-3425/12/6/797)
 ### The Lighter The Better Rethinking Transformers in Medical Image Segmentation Through Adaptive Pruning arXiv 2022 [[paper]]()
 ### Transformer Based Feature Fusion for Left Ventricle Segmentation in 4D Flow MRI MICCAI 2022 [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_36)
+### UNETR Transformers for 3D Medical Image Segmentation IEEE WACV 2022 [[arXiv paper]](https://arxiv.org/abs/2103.10504) [[WACV paper]](https://openaccess.thecvf.com/content/WACV2022/html/Hatamizadeh_UNETR_Transformers_for_3D_Medical_Image_Segmentation_WACV_2022_paper.html)
 ### XMorpher Full Transformer for Deformable Medical Image Registration via Cross Attention MICCAI 2022 [[paper]](https://arxiv.org/abs/2206.07349) [[code]](https://github.com/Solemoon/XMorpher)
 
 ## 2021
@@ -94,7 +95,6 @@
 ### U-Net Transformer Self and Cross Attention for Medical Image Segmentation MLMI 2021 [[paper]](https://arxiv.org/abs/2103.06104)
 ### UCTransNet Rethinking the Skip Connections in U-Net from a Channel-wise Perspective with Transformer AAAI 2022 [[paper]](https://arxiv.org/abs/2109.04335) [[code]](https://github.com/McGregorWwww/UCTransNet)
 ### Ultrasound Video Transformers for Cardiac Ejection Fraction Estimation MICCAI 2021 [[paper]](https://arxiv.org/abs/2107.00977) [[code]](https://github.com/HReynaud/UVT)
-### UNETR Transformers for 3D Medical Image Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2103.10504) [[WACV paper]](https://openaccess.thecvf.com/content/WACV2022/html/Hatamizadeh_UNETR_Transformers_for_3D_Medical_Image_Segmentation_WACV_2022_paper.html)
 ### UNETR++ Delving into Efficient and Accurate 3D Medical Image Segmentation arXiv 2022 [[paper]](https://arxiv.org/abs/2212.04497) [[code]](https://github.com/Amshaker/unetr_plus_plus)
 ### UTNet A Hybrid Transformer Architecture for Medical Image Segmentation MICCAI 2021 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-87199-4_6)
 ### Vision Transformer-based Recognition of Diabetic Retinopathy Grade MP 2021 [[paper]](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15312)
