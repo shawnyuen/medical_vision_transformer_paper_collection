@@ -11,6 +11,7 @@
 ## 2022
 ### 3D CVT-GAN A 3D Convolutional Vision Transformer-GAN for PET Reconstruction MICCAI 2022 [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_49)
 ### 3D Shuffle-Mixer An Efficient Context-Aware Vision Learner of Transformer-MLP Paradigm for Dense Prediction in Medical Volume arXiv 2022 [[paper]](https://arxiv.org/abs/2204.06779)
+### (VT-UNet) A Robust Volumetric Transformer for Accurate 3D Tumor Segmentation MICCAI 2022 [[paper]](https://arxiv.org/abs/2111.13300v2) [[code]](https://github.com/himashi92/VT-UNet)
 ### Affine Medical Image Registration With Coarse-To-Fine Vision Transformer CVPR 2022 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Mok_Affine_Medical_Image_Registration_With_Coarse-To-Fine_Vision_Transformer_CVPR_2022_paper.html) [[arXiv paper]](https://arxiv.org/abs/2203.15216) [[code]](https://github.com/cwmok/C2FViT)
 ### C2FTrans Coarse-to-Fine Transformers for Medical Image Segmentation arXiv 2022 [[paper]]()
 ### Deformer Towards Displacement Field Learning for Unsupervised Medical Image Registration MICCAI 2022
@@ -29,10 +30,8 @@
 ## 2021
 ### 3D Medical Point Transformer Introducing Convolution to Attention Networks for Medical Point Cloud Analysis arXiv 2021 [[paper]]()
 ### 3D Transformer-GAN for High-Quality PET Reconstruction MICCAI 2021 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_27)
-
 ### 3DMeT 3D Medical Image Transformer for Knee Cartilage Defect Assessment MLMI 2021 [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-87589-3_36)
 ### A Multi-branch Hybrid Transformer Network for Corneal Endothelial Cell Segmentation MICCAI 2021 [[paper]](https://arxiv.org/abs/2106.07557)
-### A Volumetric Transformer for Accurate 3D Tumor Segmentation arXiv 2021 [[paper]](https://arxiv.org/abs/2111.13300)
 ### Accelerated Multi-Modal MR Imaging with Transformers arXiv 2021 [[paper]](https://arxiv.org/abs/2106.14248)
 ### Anatomy-Guided Parallel Bottleneck Transformer Network for Automated Evaluation of Root Canal Therapy arXiv 2021 [[paper]](https://arxiv.org/abs/2105.00381)
 ### Attention-Based Transformers for Instance Segmentation of Cells in Microstructures IEEE BIBM 2020 [[paper]](https://arxiv.org/abs/2011.09763)
