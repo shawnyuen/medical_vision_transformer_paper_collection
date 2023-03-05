@@ -13,6 +13,7 @@
 ### 3D Shuffle-Mixer An Efficient Context-Aware Vision Learner of Transformer-MLP Paradigm for Dense Prediction in Medical Volume arXiv 2022 [[paper]](https://arxiv.org/abs/2204.06779)
 ### (VT-UNet) A Robust Volumetric Transformer for Accurate 3D Tumor Segmentation MICCAI 2022 [[paper]](https://arxiv.org/abs/2111.13300v2) [[code]](https://github.com/himashi92/VT-UNet)
 ### Affine Medical Image Registration With Coarse-To-Fine Vision Transformer CVPR 2022 [[paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Mok_Affine_Medical_Image_Registration_With_Coarse-To-Fine_Vision_Transformer_CVPR_2022_paper.html) [[arXiv paper]](https://arxiv.org/abs/2203.15216) [[code]](https://github.com/cwmok/C2FViT)
+### APAUNet Axis Projection Attention UNet for Small Target in 3D Medical Segmentation ACCV 2022
 ### C2FTrans Coarse-to-Fine Transformers for Medical Image Segmentation arXiv 2022 [[paper]]()
 ### Deformer Towards Displacement Field Learning for Unsupervised Medical Image Registration MICCAI 2022
 ### Edge-Oriented Point-Cloud Transformer for 3D Intracranial Aneurysm Segmentation MICCAI 2022 [[paper]]()
