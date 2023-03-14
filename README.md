@@ -7,6 +7,7 @@
 
 ## 2023
 ### 3D UX-Net A Large Kernel Volumetric ConvNet Modernizing Hierarchical Transformer for Medical Image Segmentation ICLR 2023
+### Token Sparsification for Faster Medical Image Segmentation IPMI 2023 [[paper]](https://arxiv.org/abs/2303.06522)
 
 ## 2022
 ### 3D CVT-GAN A 3D Convolutional Vision Transformer-GAN for PET Reconstruction MICCAI 2022 [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_49)
