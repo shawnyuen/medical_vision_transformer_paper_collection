@@ -1,4 +1,4 @@
-# medical_vision_transformer
+# medical_vision_transformer_paper_collection
 
 ## Survey
 ### Transformers in Medical Imaging A Survey arXiv 2022 [[paper]](https://arxiv.org/abs/2201.09873)
